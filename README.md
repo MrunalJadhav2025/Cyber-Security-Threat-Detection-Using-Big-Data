@@ -1,6 +1,6 @@
 Cyber Security Threat Detection Using Big Data
 
-This project was developed for the course DATA 603: Platforms for Big Data Processing. It focuses on detecting cybersecurity threats in IoT environments using scalable big data tools and machine learning models.
+It focuses on detecting cybersecurity threats in IoT environments using scalable big data tools and machine learning models.
 
 
 Project Description
